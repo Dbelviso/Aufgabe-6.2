@@ -26,6 +26,7 @@ spec:
     type: git
     git:
       uri: 'https://github.com/Dbelviso/Aufgabe-6.2'
+    contextDir: app/web/
     sourceSecret:
       name: html-openshift-app-github
   triggers:
